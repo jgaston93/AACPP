@@ -1,0 +1,11 @@
+﻿  ModifiedGRNN.cpp
+ModifiedGRNN.cpp(53): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+ModifiedGRNN.cpp(86): warning C4244: 'return': conversion from 'unsigned int' to 'float', possible loss of data
+  Main.cpp
+Main.cpp(52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Main.cpp(57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Main.cpp(63): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+  Generating code
+  All 143 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AA_Project.vcxproj -> c:\users\jgast\onedrive\documents\visual studio 2017\Projects\AA_Project\Release\AA_Project.exe
